@@ -5,8 +5,40 @@
       <artifact name="Demo:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd23d2ff-1386-4955-8e8b-b8915ffe495c" name="Default Changelist" comment="" />
+    <list default="true" id="dd23d2ff-1386-4955-8e8b-b8915ffe495c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/springMVC-dem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Demo_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Spring_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Spring_Data_JPA_2_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Spring_MVC_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +51,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -26,26 +61,21 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1gSFvNHeFVP3cxPaIa4YPIfuNWa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.1724138" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -53,7 +83,7 @@
       <recent name="D:\Vue\Demo\src\main\webapp\WEB-INF\views" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Smart Tomcat.Unnamed">
     <configuration name="Tomcat 9.0.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.31" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Demo_war_exploded/" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -127,29 +157,57 @@
         </option>
       </method>
     </configuration>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <option name="contentProportion" value="0.15480132" />
-          <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
+    <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="adminPort" value="8005" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="contextPath" value="/springMVC-dem" />
+      <option name="docBase" value="D:\akarol\EUC\springMVC-dem\web" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="moduleName" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 7.0.105" />
+          <option name="number" value="0" />
+          <option name="path" value="C:\akarol_soft\program file\apache-tomcat-7.0.105" />
+          <option name="version" value="7.0.105.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="adminPort" value="8005" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="contextPath" value="" />
+      <option name="docBase" value="" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="moduleName" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 7.0.105" />
+          <option name="number" value="0" />
+          <option name="path" value="C:\akarol_soft\program file\apache-tomcat-7.0.105" />
+          <option name="version" value="7.0.105.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Smart Tomcat.Unnamed" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -168,35 +226,52 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598100712482">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="356" y="84" width="1109" height="593" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598103671486">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1598100712482" />
+    <state x="356" y="84" width="1109" height="593" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598103671486" />
     <state x="265" y="21" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1598101392575">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="265" y="21" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1598101392575" />
-    <state x="421" y="84" key="FileChooserDialogImpl" timestamp="1598100586091">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="632" y="128" key="FileChooserDialogImpl" timestamp="1598103645907">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="421" y="84" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598100586091" />
-    <state width="1020" height="161" key="GridCell.Tab.0.bottom" timestamp="1598101993250">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="632" y="128" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598103645907" />
+    <state width="1877" height="373" key="GridCell.Tab.0.bottom" timestamp="1598103648818">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1020" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598101993250" />
-    <state width="1020" height="161" key="GridCell.Tab.0.center" timestamp="1598101993250">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1877" height="373" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598103648818" />
+    <state width="1877" height="373" key="GridCell.Tab.0.center" timestamp="1598103648817">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1020" height="161" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598101993250" />
-    <state width="1020" height="161" key="GridCell.Tab.0.left" timestamp="1598101993250">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1877" height="373" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598103648817" />
+    <state width="1877" height="373" key="GridCell.Tab.0.left" timestamp="1598103648817">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1020" height="161" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598101993250" />
-    <state width="1020" height="161" key="GridCell.Tab.0.right" timestamp="1598101993250">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1877" height="373" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598103648817" />
+    <state width="1877" height="373" key="GridCell.Tab.0.right" timestamp="1598103648817">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1020" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598101993250" />
+    <state width="1877" height="373" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598103648817" />
     <state width="1020" height="161" key="GridCell.Tab.1.bottom" timestamp="1598101993250">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -229,9 +304,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1020" height="161" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1598101993250" />
-    <state x="144" y="0" key="SettingsEditor" timestamp="1598101458997">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="216" y="0" key="SettingsEditor" timestamp="1598103783677">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1598101458997" />
+    <state x="216" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598103783677" />
   </component>
 </project>
